@@ -21,3 +21,7 @@ https://github.com/hefengbao/e-campus-wechat.git
 [教育部关于加强新时代教育管理信息化 工作的通知](http://www.moe.gov.cn/srcsite/A16/s3342/202103/t20210322_521669.html)   
 [高校教师主页平台建设思路](https://mp.weixin.qq.com/s/7BqcoCX8EcJ_VL6stkQp7w)   
 [高校如何打造高质量信息化队伍？](https://mp.weixin.qq.com/s/wmiInDeFUl8zqBUq4DOYBw)   
+
+## 开源项目
+[Noodle: Open Source Education Platform](https://github.com/noodle-run/noodle) ([官网](https://noodle.run))  
+[Moodle - the world's open source learning platform](https://github.com/moodle/moodle)([官网](https://moodle.org/))
